@@ -128,6 +128,12 @@ const InterviewForm = () => {
               </select>
             </div>
             <div className="flex  w-full flex-col gap-1 text-black">
+                <label
+                htmlFor="Experience"
+                className="text-lg font-semibold text-gray-100"
+              >
+                Add Your Skills
+              </label>
               <TagInput></TagInput>
             </div>
           </div>
