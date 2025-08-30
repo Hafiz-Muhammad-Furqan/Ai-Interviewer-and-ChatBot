@@ -130,10 +130,10 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📧 Contact
+## � Get in Touch
 
-For questions or feedback, please reach out:
+Got questions or suggestions? Feel free to:
 
-**Hafiz Muhammad Furqan**
-Email: [hafizm.furqan456@gmail.com](mailto:hafizm.furqan456@gmail.com)
-Project Link: [https://github.com/Hafiz-Muhammad-Furqan/Ai-Interviewer-and-ChatBot](https://github.com/Hafiz-Muhammad-Furqan/Ai-Interviewer-and-ChatBot)
+- Open an issue in this repo
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/hafiz-muhammad-furqan) or [hafizfurqan.dev@gmail.com](mailto:hafizfurqan.dev@gmail.com)
+- Star the repo if you found it helpful!
